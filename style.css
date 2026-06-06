@@ -30,7 +30,7 @@ html {
 }
 
 body {
-    background-color: var(--bg-main);
+    background-color: white;
     color: var(--text-main);
     font-family: var(--font-main);
     overflow-x: hidden;
