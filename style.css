@@ -1,10 +1,10 @@
 /* ROOT VARIABLES */
 :root {
-    --bg-main: #060608;
+    --bg-main: #ffffff;
     --bg-card: rgba(255, 255, 255, 0.03);
     --border-glass: rgba(255, 255, 255, 0.08);
-    --text-main: #ffffff;
-    --text-muted: #9ca3af;
+    --text-main: #000000;
+    --text-muted: #666666;
     
     --primary: #6366f1;
     --primary-glow: rgba(99, 102, 241, 0.5);
